@@ -15,8 +15,7 @@
 
 ## Authors
 
+* **Arjun J. Anghan**
 * **Nirav C. Pansuriya**
-* **Brij S. Patel**
-* **Smit Y. Parmar**
-* **Anuj H. Patel** 
+
 
